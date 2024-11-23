@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/partnero/static/css/main.15c8f0b9.css",
-    "main.js": "/partnero/static/js/main.96fe14e5.js",
+    "main.js": "/partnero/static/js/main.19e1ef6f.js",
     "index.html": "/partnero/index.html",
     "main.15c8f0b9.css.map": "/partnero/static/css/main.15c8f0b9.css.map",
-    "main.96fe14e5.js.map": "/partnero/static/js/main.96fe14e5.js.map"
+    "main.19e1ef6f.js.map": "/partnero/static/js/main.19e1ef6f.js.map"
   },
   "entrypoints": [
     "static/css/main.15c8f0b9.css",
-    "static/js/main.96fe14e5.js"
+    "static/js/main.19e1ef6f.js"
   ]
 }
